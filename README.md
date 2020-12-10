@@ -1,4 +1,4 @@
-# Print_Art_termcolor
+# Print_Art_termcolor (PYTHON)
 
 Create Colored print art for whatever words you like! :D 
 
